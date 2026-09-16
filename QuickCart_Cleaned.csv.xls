@@ -1,0 +1,501 @@
+order_id,order_date,customer_id,customer_name,city,category,product,quantity,unit_price,discount_pct,payment_method,delivery_time_min,order_status,rating
+QC1001,2026-03-29,C124,Customer_103,Pune,Unknown,Unknown,4.0,2614.95,10.0,Card,40.0,Delivered,3.0
+QC1002,2026-01-22,C149,Customer_159,Missing,Electronics,Smartphone,4.0,1412.76,0.0,Upi,30.0,Pending,4.0
+QC1003,2026-05-11,C151,Customer_107,Bangalore,Fashion,T-Shirt,2.0,1376.26,10.0,Card,20.0,Cancelled,4.0
+QC1004,2026-04-21,C160,Customer_171,Mumbai,Fashion,T-Shirt,5.0,1591.46,0.0,Cash On Delivery,50.0,Pending,3.0
+QC1005,2026-02-23,C163,Customer_118,Kolkata,Home & Kitchen,Mixer,2.0,308.72,0.0,Card,50.0,Returned,3.0
+QC1006,2026-02-09,C180,Customer_153,Kolkata,Electronics,Headphones,5.0,1567.14,0.0,Upi,20.0,Returned,3.0
+QC1007,2026-05-16,C163,Customer_111,Delhi,Fashion,T-Shirt,3.0,190.89,0.0,Cash On Delivery,20.0,Delivered,
+QC1008,2026-06-11,C133,Customer_148,Missing,Grocery,Snacks,4.0,1084.17,10.0,Unknown,50.0,Cancelled,5.0
+QC1009,2026-05-11,C101,Customer_105,Kolkata,Home,Bedsheet,4.0,4773.77,10.0,Unknown,75.0,Delivered,2.0
+QC1010,2026-02-21,C104,Customer_123,Missing,Unknown,Unknown,1.0,2462.79,0.0,Card,,Pending,3.0
+QC1011,2026-06-19,C145,Customer_162,Kolkata,Unknown,Unknown,4.0,869.77,10.0,Card,30.0,Delivered,3.0
+QC1012,2026-04-02,C162,Customer_101,Kolkata,Home & Kitchen,Bedsheet,2.0,748.91,20.0,Unknown,,Delivered,4.0
+QC1013,2026-02-20,C144,Customer_124,Missing,Electronics,Mouse,4.0,191.23,0.0,Unknown,60.0,Delivered,4.0
+QC1014,2026-04-23,C156,Customer_159,Kolkata,Electronics,Smartphone,2.0,1640.44,,Card,40.0,Returned,5.0
+QC1015,2026-06-09,C170,Customer_132,Missing,Fashion,Jacket,1.0,968.05,10.0,Cash On Delivery,50.0,Returned,3.0
+QC1016,2026-05-24,C173,Customer_159,Pune,Grocery,Coffee,1.0,1459.36,10.0,Card,,Returned,4.0
+QC1017,2026-02-21,C133,Customer_140,Missing,Grocery,Milk,3.0,471.08,10.0,Upi,,Delivered,4.0
+QC1018,2026-05-24,C160,Customer_102,Kolkata,Grocery,Coffee,2.0,187.42,5.0,Unknown,50.0,Delivered,3.0
+QC1019,2026-05-28,C124,Customer_154,Kolkata,Fashion,Jacket,3.0,5132.07,0.0,Upi,40.0,Delivered,5.0
+QC1020,2026-04-09,C125,Customer_118,Pune,Grocery,Milk,5.0,862.69,10.0,Card,20.0,Delivered,4.0
+QC1021,2026-05-08,C108,Customer_107,Delhi,Home & Kitchen,Chair,2.0,943.91,10.0,Upi,50.0,Delivered,4.0
+QC1022,2026-01-08,C127,Customer_127,Kolkata,Fashion,T-Shirt,3.0,1428.61,0.0,Unknown,40.0,Returned,
+QC1023,2026-01-17,C144,Customer_130,Bangalore,Electronics,Smartphone,3.0,5363.09,0.0,Card,20.0,Delivered,4.0
+QC1024,2026-04-26,C163,Customer_132,Missing,Home & Kitchen,Chair,2.0,217.03,0.0,Cash On Delivery,40.0,Returned,
+QC1025,2026-03-27,C123,Customer_166,Missing,Electronics,Mouse,3.0,2671.04,20.0,Card,,Returned,2.0
+QC1026,2026-04-09,C150,Customer_125,Bangalore,Electronics,Keyboard,2.0,5195.98,10.0,Card,30.0,Pending,4.0
+QC1027,2026-04-25,C115,Customer_166,Missing,Unknown,Unknown,3.0,937.92,0.0,Unknown,50.0,Returned,5.0
+QC1028,2026-06-19,C170,Customer_115,Pune,Grocery,Snacks,2.0,2739.82,15.0,Upi,50.0,Delivered,1.0
+QC1029,2026-04-04,C147,Customer_155,Mumbai,Home,Mixer,3.0,953.35,,Card,50.0,Cancelled,5.0
+QC1030,2026-03-31,C162,Customer_123,Missing,Electronics,Headphones,3.0,1361.41,5.0,Upi,,Delivered,4.0
+QC1031,2026-04-27,C101,Customer_116,Bangalore,Home,Bedsheet,1.0,278.45,0.0,Card,20.0,Returned,2.0
+QC1032,2026-03-10,C147,Customer_162,Mumbai,Home & Kitchen,Chair,4.0,473.82,5.0,Upi,60.0,Pending,2.0
+QC1033,2026-01-10,C169,Customer_134,Mumbai,Electronics,Mouse,4.0,993.7,0.0,Card,30.0,Returned,5.0
+QC1034,2026-01-02,C132,Customer_124,Mumbai,Electronics,Smartphone,5.0,5355.42,10.0,Cash On Delivery,,Cancelled,4.0
+QC1035,2026-02-12,C144,Customer_129,Bangalore,Fashion,Jacket,1.0,1008.11,20.0,Unknown,30.0,Delivered,5.0
+QC1036,2026-06-11,C107,Customer_168,Kolkata,Electronics,Headphones,1.0,309.94,0.0,Card,30.0,Pending,5.0
+QC1037,2026-06-01,C164,Customer_149,Delhi,Home,Mixer,5.0,5234.02,15.0,Upi,60.0,Delivered,4.0
+QC1038,2026-01-13,C123,Customer_130,Kolkata,Electronics,Headphones,2.0,4839.84,20.0,Unknown,,Pending,3.0
+QC1039,2026-05-27,C176,Customer_109,Missing,Fashion,Jacket,4.0,1438.33,0.0,Unknown,20.0,Cancelled,1.0
+QC1040,2026-06-29,C153,Customer_123,Kolkata,Unknown,Unknown,,498.3,0.0,Card,20.0,Pending,4.0
+QC1041,2026-03-16,C118,Customer_176,Kolkata,Home,Lamp,2.0,2746.87,0.0,Card,40.0,Delivered,5.0
+QC1042,2026-05-02,C166,Customer_105,Bangalore,Fashion,T-Shirt,5.0,1374.32,10.0,Unknown,40.0,Delivered,4.0
+QC1043,2026-03-11,C131,Customer_119,Bangalore,Grocery,Coffee,3.0,973.15,15.0,Unknown,50.0,Delivered,4.0
+QC1044,2026-05-06,C158,Customer_120,Mumbai,Unknown,Unknown,2.0,288.85,5.0,Card,50.0,Pending,1.0
+QC1045,2026-06-02,C156,Customer_133,Pune,Unknown,Unknown,3.0,206.21,0.0,Card,20.0,Delivered,4.0
+QC1046,2026-06-13,C119,Customer_120,Kolkata,Home & Kitchen,Lamp,4.0,1092.88,0.0,Upi,60.0,Pending,1.0
+QC1047,2026-01-12,C174,Customer_116,Pune,Electronics,Keyboard,3.0,2746.82,10.0,Upi,20.0,Delivered,
+QC1048,2026-04-11,C141,Customer_164,Delhi,Home,Lamp,2.0,822.47,5.0,Upi,50.0,Cancelled,4.0
+QC1049,2026-05-14,C169,Customer_147,Kolkata,Electronics,Smartphone,2.0,815.42,0.0,Card,60.0,Pending,
+QC1050,2026-06-26,C111,Customer_126,Missing,Home & Kitchen,Chair,5.0,932.03,5.0,Unknown,,Returned,5.0
+QC1051,2026-01-06,C169,Customer_105,Pune,Grocery,Snacks,4.0,911.79,0.0,Card,,Delivered,1.0
+QC1052,2026-01-01,C151,Customer_145,Bangalore,Unknown,Unknown,4.0,1050.36,5.0,Upi,75.0,Pending,4.0
+QC1053,2026-04-28,C103,Customer_150,Mumbai,Home & Kitchen,Chair,5.0,5117.1,5.0,Unknown,75.0,Delivered,4.0
+QC1054,2026-03-16,C151,Customer_138,Mumbai,Fashion,Jeans,3.0,1586.49,10.0,Unknown,30.0,Pending,4.0
+QC1055,2026-03-20,C130,Customer_151,Kolkata,Electronics,Headphones,3.0,1515.43,0.0,Card,75.0,Delivered,4.0
+QC1056,2026-05-06,C143,Customer_175,Delhi,Fashion,Shoes,2.0,198.69,0.0,Upi,60.0,Pending,
+QC1057,2026-04-06,C167,Customer_127,Bangalore,Unknown,Unknown,1.0,2449.17,10.0,Card,20.0,Cancelled,3.0
+QC1058,2026-03-11,C101,Customer_105,Kolkata,Home,Mixer,1.0,531.11,0.0,Card,60.0,Delivered,3.0
+QC1059,2026-02-25,C163,Customer_148,Bangalore,Home & Kitchen,Chair,2.0,1448.06,0.0,Card,20.0,Delivered,5.0
+QC1060,2026-03-19,C102,Customer_126,Pune,Fashion,Shoes,4.0,202.87,,Cash On Delivery,50.0,Returned,3.0
+QC1061,2026-04-25,C115,Customer_164,Kolkata,Unknown,Unknown,3.0,2504.84,5.0,Card,75.0,Pending,5.0
+QC1062,2026-01-13,C125,Customer_168,Kolkata,Fashion,Shoes,1.0,212.56,0.0,Upi,20.0,Returned,2.0
+QC1063,2026-06-18,C106,Customer_152,Kolkata,Home,Mixer,2.0,804.93,10.0,Card,30.0,Delivered,4.0
+QC1064,2026-03-11,C104,Customer_175,Pune,Grocery,Milk,2.0,965.1,20.0,Unknown,75.0,Pending,2.0
+QC1065,2026-01-06,C166,Customer_175,Mumbai,Unknown,Unknown,1.0,182.29,5.0,Unknown,,Pending,
+QC1066,2026-06-28,C145,Customer_144,Bangalore,Home & Kitchen,Lamp,2.0,5221.85,15.0,Card,30.0,Delivered,4.0
+QC1067,2026-02-06,C111,Customer_177,Delhi,Home & Kitchen,Bedsheet,4.0,800.22,0.0,Upi,75.0,Delivered,4.0
+QC1068,2026-03-25,C165,Customer_163,Bangalore,Home & Kitchen,Chair,2.0,301.91,5.0,Upi,30.0,Delivered,4.0
+QC1069,2026-06-27,C178,Customer_175,Kolkata,Electronics,Smartphone,3.0,5105.08,15.0,Upi,50.0,Delivered,5.0
+QC1070,2026-01-14,C160,Customer_130,Delhi,Grocery,Rice,1.0,5220.55,0.0,Card,20.0,Pending,3.0
+QC1071,2026-02-09,C172,Customer_139,Pune,Home,Mixer,1.0,1505.92,5.0,Cash On Delivery,30.0,Pending,4.0
+QC1072,2026-02-22,C151,Customer_139,Delhi,Home,Lamp,2.0,2468.38,10.0,Unknown,,Delivered,5.0
+QC1073,2026-06-04,C136,Customer_129,Pune,Grocery,Rice,3.0,5192.68,0.0,Upi,75.0,Pending,4.0
+QC1074,2026-03-15,C138,Customer_113,Missing,Home,Bedsheet,1.0,2320.64,0.0,Upi,40.0,Delivered,5.0
+QC1075,2026-06-22,C102,Customer_127,Missing,Home,Bedsheet,1.0,5001.29,5.0,Cash On Delivery,50.0,Pending,3.0
+QC1076,2026-05-14,C172,Customer_123,Missing,Fashion,Jeans,3.0,508.88,15.0,Unknown,75.0,Returned,
+QC1077,2026-06-20,C176,Customer_168,Bangalore,Grocery,Coffee,1.0,926.9,0.0,Card,50.0,Delivered,1.0
+QC1078,2026-01-11,C123,Customer_101,Pune,Unknown,Unknown,1.0,778.93,0.0,Card,20.0,Delivered,5.0
+QC1079,2026-05-29,C147,Customer_173,Bangalore,Home,Chair,1.0,739.02,20.0,Card,,Returned,4.0
+QC1080,2026-05-10,C107,Customer_134,Delhi,Fashion,T-Shirt,4.0,289.04,5.0,Cash On Delivery,75.0,Delivered,5.0
+QC1081,2026-06-26,C129,Customer_163,Delhi,Grocery,Milk,2.0,473.87,10.0,Card,20.0,Cancelled,4.0
+QC1082,2026-03-04,C161,Customer_149,Missing,Fashion,T-Shirt,1.0,186.19,,Card,75.0,Delivered,4.0
+QC1083,2026-01-30,C116,Customer_140,Delhi,Home & Kitchen,Lamp,4.0,528.92,0.0,Upi,60.0,Returned,3.0
+QC1084,2026-03-04,C104,Customer_101,Bangalore,Home & Kitchen,Bedsheet,4.0,300.46,5.0,Cash On Delivery,40.0,Delivered,4.0
+QC1085,2026-04-03,C108,Customer_165,Kolkata,Electronics,Mouse,2.0,1506.97,15.0,Cash On Delivery,,Cancelled,5.0
+QC1086,2026-04-02,C108,Customer_134,Delhi,Unknown,Unknown,3.0,1017.99,0.0,Unknown,20.0,Pending,3.0
+QC1087,2026-01-07,C174,Customer_107,Kolkata,Home & Kitchen,Bedsheet,4.0,870.02,0.0,Card,30.0,Returned,4.0
+QC1088,2026-05-28,C111,Customer_102,Delhi,Grocery,Snacks,1.0,507.29,5.0,Upi,60.0,Delivered,
+QC1089,2026-03-27,C124,Customer_174,Pune,Fashion,Jacket,3.0,1581.1,5.0,Cash On Delivery,50.0,Pending,4.0
+QC1090,2026-01-25,C173,Customer_122,Delhi,Home & Kitchen,Lamp,2.0,4924.23,0.0,Upi,30.0,Returned,5.0
+QC1091,2026-02-11,C141,Customer_138,Kolkata,Electronics,Headphones,3.0,1037.21,10.0,Card,60.0,Returned,
+QC1092,2026-05-14,C140,Customer_112,Bangalore,Electronics,Headphones,2.0,752.09,0.0,Card,,Pending,3.0
+QC1093,2026-02-23,C165,Customer_151,Bangalore,Unknown,Unknown,3.0,195.77,5.0,Upi,30.0,Delivered,4.0
+QC1094,2026-02-23,C155,Customer_124,Pune,Grocery,Milk,1.0,1066.35,5.0,Card,,Cancelled,5.0
+QC1095,2026-04-19,C173,Customer_126,Kolkata,Electronics,Headphones,2.0,2380.18,10.0,Upi,40.0,Delivered,5.0
+QC1096,2026-05-11,C144,Customer_151,Pune,Electronics,Smartphone,2.0,198.82,10.0,Card,40.0,Delivered,4.0
+QC1097,2026-02-16,C112,Customer_162,Delhi,Fashion,Jacket,2.0,848.13,,Card,,Delivered,
+QC1098,2026-02-28,C126,Customer_126,Missing,Electronics,Keyboard,3.0,1540.14,,Card,,Delivered,4.0
+QC1099,2026-05-17,C148,Customer_172,Kolkata,Unknown,Unknown,,303.06,20.0,Cash On Delivery,,Returned,2.0
+QC1100,2026-01-17,C114,Customer_131,Delhi,Unknown,Unknown,4.0,2679.95,15.0,Upi,,Delivered,4.0
+QC1101,2026-01-04,C125,Customer_113,Kolkata,Fashion,T-Shirt,2.0,518.59,0.0,Card,20.0,Cancelled,4.0
+QC1102,2026-05-21,C118,Customer_132,Delhi,Electronics,Mouse,5.0,270.56,20.0,Unknown,60.0,Returned,1.0
+QC1103,2026-05-01,C110,Customer_130,Kolkata,Fashion,Shoes,1.0,195.1,5.0,Upi,50.0,Delivered,4.0
+QC1104,2026-02-06,C125,Customer_148,Kolkata,Home,Chair,4.0,183.5,5.0,Unknown,30.0,Returned,5.0
+QC1105,2026-06-20,C170,Customer_139,Missing,Unknown,Unknown,2.0,194.69,0.0,Unknown,60.0,Delivered,
+QC1106,2026-03-04,C154,Customer_174,Delhi,Grocery,Milk,5.0,279.09,,Upi,60.0,Delivered,4.0
+QC1107,2026-06-26,C109,Customer_120,Kolkata,Electronics,Headphones,1.0,315.72,5.0,Card,,Pending,4.0
+QC1108,2026-01-13,C173,Customer_168,Pune,Grocery,Rice,2.0,298.47,,Card,75.0,Delivered,5.0
+QC1109,2026-06-19,C109,Customer_179,Kolkata,Grocery,Rice,5.0,476.34,5.0,Cash On Delivery,50.0,Delivered,
+QC1110,2026-02-06,C160,Customer_148,Bangalore,Grocery,Coffee,2.0,778.66,0.0,Card,30.0,Pending,1.0
+QC1111,2026-02-09,C177,Customer_133,Pune,Home,Mixer,5.0,5381.83,5.0,Cash On Delivery,30.0,Delivered,5.0
+QC1112,2026-04-10,C163,Customer_127,Pune,Fashion,Jacket,5.0,465.11,0.0,Card,30.0,Pending,5.0
+QC1113,2026-06-07,C139,Customer_131,Kolkata,Grocery,Coffee,,180.26,15.0,Card,60.0,Delivered,5.0
+QC1114,2026-01-17,C160,Customer_164,Bangalore,Home & Kitchen,Bedsheet,4.0,720.12,0.0,Unknown,20.0,Returned,4.0
+QC1115,2026-02-06,C122,Customer_168,Mumbai,Grocery,Coffee,4.0,294.95,15.0,Upi,75.0,Cancelled,5.0
+QC1116,2026-04-30,C150,Customer_114,Missing,Electronics,Headphones,5.0,5207.13,0.0,Upi,75.0,Delivered,4.0
+QC1117,2026-03-20,C132,Customer_151,Delhi,Fashion,Jeans,3.0,840.27,0.0,Card,,Delivered,5.0
+QC1118,2026-01-29,C129,Customer_175,Mumbai,Electronics,Keyboard,2.0,1087.77,0.0,Card,,Delivered,3.0
+QC1119,2026-01-21,C147,Customer_180,Bangalore,Unknown,Unknown,3.0,1388.47,15.0,Cash On Delivery,50.0,Returned,3.0
+QC1120,2026-06-11,C161,Customer_135,Kolkata,Fashion,T-Shirt,2.0,196.7,0.0,Upi,,Delivered,5.0
+QC1121,2026-01-08,C179,Customer_127,Pune,Electronics,Smartphone,5.0,5042.22,0.0,Upi,60.0,Delivered,5.0
+QC1122,2026-01-15,C125,Customer_178,Missing,Unknown,Unknown,3.0,4793.21,20.0,Upi,75.0,Delivered,4.0
+QC1123,2026-04-27,C102,Customer_172,Delhi,Home & Kitchen,Mixer,3.0,808.33,0.0,Card,75.0,Cancelled,2.0
+QC1124,2026-02-02,C141,Customer_108,Delhi,Electronics,Smartphone,1.0,309.79,5.0,Cash On Delivery,60.0,Returned,4.0
+QC1125,2026-06-10,C174,Customer_140,Kolkata,Electronics,Keyboard,1.0,201.82,0.0,Upi,50.0,Returned,4.0
+QC1126,2026-06-15,C146,Customer_115,Kolkata,Electronics,Smartphone,3.0,193.05,0.0,Upi,,Cancelled,4.0
+QC1127,2026-06-09,C141,Customer_176,Kolkata,Electronics,Keyboard,,1040.25,0.0,Unknown,,Returned,4.0
+QC1128,2026-06-03,C103,Customer_141,Mumbai,Fashion,Jeans,2.0,497.44,10.0,Unknown,75.0,Cancelled,4.0
+QC1129,2026-02-24,C145,Customer_108,Bangalore,Grocery,Snacks,4.0,758.59,0.0,Card,40.0,Pending,4.0
+QC1130,2026-02-28,C103,Customer_128,Kolkata,Unknown,Unknown,1.0,807.85,10.0,Cash On Delivery,20.0,Returned,4.0
+QC1131,2026-06-08,C158,Customer_161,Mumbai,Grocery,Rice,1.0,1358.29,0.0,Upi,60.0,Cancelled,3.0
+QC1132,2026-04-27,C166,Customer_179,Kolkata,Fashion,Jacket,2.0,799.77,5.0,Unknown,50.0,Delivered,4.0
+QC1133,2026-05-23,C126,Customer_108,Mumbai,Unknown,Unknown,2.0,477.43,5.0,Unknown,60.0,Delivered,4.0
+QC1134,2026-03-03,C160,Customer_114,Missing,Unknown,Unknown,3.0,1640.32,0.0,Upi,20.0,Pending,2.0
+QC1135,2026-01-05,C165,Customer_140,Mumbai,Fashion,Jacket,3.0,1544.61,0.0,Upi,60.0,Cancelled,3.0
+QC1136,2026-01-10,C176,Customer_101,Bangalore,Home,Mixer,1.0,2367.08,0.0,Cash On Delivery,60.0,Returned,4.0
+QC1137,2026-06-14,C149,Customer_144,Mumbai,Fashion,Shoes,4.0,4858.28,5.0,Unknown,60.0,Delivered,5.0
+QC1138,2026-01-01,C135,Customer_170,Bangalore,Fashion,T-Shirt,3.0,762.21,0.0,Cash On Delivery,60.0,Pending,
+QC1139,2026-02-12,C150,Customer_129,Kolkata,Home,Bedsheet,1.0,453.25,0.0,Cash On Delivery,40.0,Pending,4.0
+QC1140,2026-05-04,C108,Customer_101,Missing,Electronics,Keyboard,2.0,1390.97,0.0,Card,30.0,Pending,3.0
+QC1141,2026-04-24,C117,Customer_126,Missing,Home & Kitchen,Mixer,5.0,1425.64,10.0,Upi,75.0,Delivered,4.0
+QC1142,2026-02-22,C148,Customer_169,Kolkata,Fashion,Jeans,1.0,206.54,10.0,Unknown,75.0,Delivered,
+QC1143,2026-03-14,C177,Customer_131,Kolkata,Fashion,Shoes,1.0,4547.3,,Upi,60.0,Delivered,
+QC1144,2026-01-23,C175,Customer_101,Pune,Electronics,Smartphone,2.0,1626.62,5.0,Upi,20.0,Delivered,5.0
+QC1145,2026-06-10,C149,Customer_135,Mumbai,Home,Lamp,2.0,816.55,10.0,Card,20.0,Delivered,4.0
+QC1146,2026-03-13,C148,Customer_166,Pune,Grocery,Coffee,3.0,1541.74,15.0,Card,30.0,Delivered,4.0
+QC1147,2026-06-25,C170,Customer_146,Kolkata,Home,Mixer,2.0,742.91,5.0,Cash On Delivery,40.0,Cancelled,4.0
+QC1148,2026-02-05,C175,Customer_151,Missing,Grocery,Coffee,1.0,2464.44,20.0,Card,20.0,Pending,5.0
+QC1149,2026-06-06,C128,Customer_135,Kolkata,Home,Mixer,2.0,279.05,10.0,Unknown,40.0,Pending,4.0
+QC1150,2026-03-15,C139,Customer_113,Missing,Electronics,Mouse,2.0,981.73,0.0,Upi,50.0,Delivered,2.0
+QC1151,2026-04-16,C147,Customer_113,Missing,Electronics,Smartphone,1.0,5461.83,5.0,Unknown,60.0,Returned,4.0
+QC1152,2026-03-13,C124,Customer_180,Kolkata,Home,Lamp,5.0,210.69,10.0,Cash On Delivery,30.0,Delivered,4.0
+QC1153,2026-06-13,C174,Customer_155,Kolkata,Home,Chair,2.0,5321.55,5.0,Upi,40.0,Delivered,5.0
+QC1154,2026-06-09,C111,Customer_110,Kolkata,Grocery,Milk,5.0,187.73,0.0,Card,50.0,Pending,5.0
+QC1155,2026-04-28,C139,Customer_141,Kolkata,Home,Bedsheet,1.0,218.41,0.0,Upi,30.0,Pending,5.0
+QC1156,2026-04-07,C136,Customer_103,Kolkata,Home & Kitchen,Mixer,1.0,289.27,20.0,Upi,60.0,Pending,2.0
+QC1157,2026-01-27,C132,Customer_121,Pune,Grocery,Coffee,2.0,2283.8,5.0,Card,50.0,Delivered,5.0
+QC1158,2026-04-12,C135,Customer_130,Mumbai,Grocery,Coffee,3.0,990.38,0.0,Unknown,30.0,Delivered,
+QC1159,2026-06-07,C155,Customer_116,Mumbai,Fashion,T-Shirt,1.0,934.13,10.0,Upi,30.0,Delivered,3.0
+QC1160,2026-03-06,C130,Customer_121,Mumbai,Fashion,Jeans,2.0,1419.45,5.0,Unknown,50.0,Returned,
+QC1161,2026-05-22,C136,Customer_123,Kolkata,Electronics,Headphones,4.0,4626.79,15.0,Card,60.0,Returned,3.0
+QC1162,2026-06-03,C168,Customer_155,Pune,Electronics,Mouse,1.0,472.96,5.0,Unknown,,Delivered,4.0
+QC1163,2026-06-22,C135,Customer_130,Kolkata,Grocery,Milk,3.0,855.16,0.0,Unknown,30.0,Delivered,2.0
+QC1164,2026-05-10,C135,Customer_178,Mumbai,Home & Kitchen,Lamp,1.0,2401.38,0.0,Card,40.0,Pending,1.0
+QC1165,2026-05-05,C152,Customer_103,Delhi,Electronics,Headphones,3.0,1071.33,20.0,Unknown,75.0,Returned,3.0
+QC1166,2026-01-12,C132,Customer_113,Missing,Electronics,Smartphone,3.0,273.18,0.0,Upi,60.0,Delivered,3.0
+QC1167,2026-01-31,C105,Customer_134,Kolkata,Electronics,Headphones,2.0,2569.38,0.0,Card,,Returned,4.0
+QC1168,2026-03-14,C128,Customer_162,Pune,Home & Kitchen,Bedsheet,,1022.88,0.0,Upi,60.0,Delivered,3.0
+QC1169,2026-06-13,C138,Customer_150,Missing,Electronics,Headphones,3.0,2363.5,0.0,Upi,50.0,Cancelled,4.0
+QC1170,2026-03-27,C105,Customer_155,Kolkata,Unknown,Unknown,2.0,969.88,5.0,Unknown,60.0,Returned,5.0
+QC1171,2026-03-06,C113,Customer_153,Kolkata,Grocery,Rice,2.0,1426.99,15.0,Card,60.0,Delivered,3.0
+QC1172,2026-01-26,C168,Customer_134,Mumbai,Fashion,Jacket,2.0,200.91,5.0,Upi,60.0,Cancelled,3.0
+QC1173,2026-04-23,C164,Customer_117,Kolkata,Electronics,Headphones,2.0,203.54,15.0,Upi,60.0,Delivered,5.0
+QC1174,2026-02-03,C108,Customer_159,Pune,Electronics,Keyboard,2.0,954.92,20.0,Upi,50.0,Cancelled,5.0
+QC1175,2026-01-08,C177,Customer_172,Kolkata,Unknown,Unknown,5.0,2508.2,0.0,Cash On Delivery,60.0,Cancelled,4.0
+QC1176,2026-06-08,C111,Customer_152,Missing,Electronics,Mouse,1.0,4604.45,0.0,Cash On Delivery,30.0,Cancelled,5.0
+QC1177,2026-03-22,C108,Customer_125,Kolkata,Fashion,Jeans,2.0,274.98,10.0,Card,50.0,Delivered,1.0
+QC1178,2026-04-24,C110,Customer_121,Mumbai,Grocery,Coffee,1.0,1427.26,0.0,Cash On Delivery,75.0,Delivered,4.0
+QC1179,2026-01-15,C117,Customer_140,Kolkata,Electronics,Mouse,3.0,1082.98,5.0,Upi,30.0,Cancelled,3.0
+QC1180,2026-06-21,C132,Customer_151,Pune,Electronics,Headphones,2.0,1480.83,10.0,Card,50.0,Returned,3.0
+QC1181,2026-05-21,C121,Customer_108,Pune,Grocery,Coffee,3.0,1607.34,15.0,Unknown,60.0,Delivered,4.0
+QC1182,2026-01-29,C113,Customer_102,Bangalore,Unknown,Unknown,1.0,4676.49,5.0,Card,50.0,Delivered,3.0
+QC1183,2026-06-14,C161,Customer_156,Delhi,Unknown,Unknown,1.0,281.87,5.0,Unknown,40.0,Cancelled,5.0
+QC1184,2026-05-24,C172,Customer_101,Mumbai,Grocery,Rice,1.0,1610.92,10.0,Cash On Delivery,30.0,Pending,3.0
+QC1185,2026-05-08,C146,Customer_127,Kolkata,Electronics,Headphones,2.0,489.17,15.0,Card,60.0,Delivered,4.0
+QC1186,2026-05-01,C134,Customer_153,Kolkata,Electronics,Keyboard,3.0,1603.34,15.0,Cash On Delivery,75.0,Cancelled,5.0
+QC1187,2026-01-20,C110,Customer_124,Pune,Grocery,Snacks,4.0,1611.92,,Card,50.0,Cancelled,4.0
+QC1188,2026-02-26,C145,Customer_120,Kolkata,Home,Bedsheet,3.0,1557.65,0.0,Upi,50.0,Returned,3.0
+QC1189,2026-01-24,C134,Customer_130,Kolkata,Home,Bedsheet,3.0,4603.22,0.0,Upi,75.0,Cancelled,4.0
+QC1190,2026-04-27,C131,Customer_164,Delhi,Fashion,Jacket,2.0,2287.61,0.0,Card,30.0,Pending,5.0
+QC1191,2026-02-16,C175,Customer_157,Mumbai,Fashion,Jeans,1.0,196.37,0.0,Card,50.0,Cancelled,2.0
+QC1192,2026-03-16,C109,Customer_116,Bangalore,Electronics,Headphones,2.0,798.39,0.0,Upi,50.0,Returned,
+QC1193,2026-03-22,C151,Customer_119,Kolkata,Home,Bedsheet,,451.71,0.0,Unknown,75.0,Returned,4.0
+QC1194,2026-04-10,C170,Customer_104,Pune,Electronics,Mouse,5.0,991.35,5.0,Card,60.0,Pending,4.0
+QC1195,2026-02-26,C131,Customer_124,Kolkata,Grocery,Coffee,2.0,179.38,0.0,Card,50.0,Returned,4.0
+QC1196,2026-04-30,C110,Customer_180,Pune,Home & Kitchen,Bedsheet,2.0,285.97,0.0,Card,75.0,Delivered,3.0
+QC1197,2026-04-17,C157,Customer_121,Mumbai,Electronics,Smartphone,4.0,744.09,15.0,Upi,30.0,Delivered,2.0
+QC1198,2026-06-25,C171,Customer_121,Kolkata,Grocery,Milk,2.0,2367.44,10.0,Upi,,Delivered,
+QC1199,2026-05-27,C112,Customer_161,Kolkata,Home & Kitchen,Chair,4.0,327.68,0.0,Card,20.0,Delivered,3.0
+QC1200,2026-03-02,C128,Customer_158,Delhi,Home,Chair,1.0,274.41,10.0,Unknown,60.0,Delivered,4.0
+QC1201,2026-01-22,C157,Customer_166,Kolkata,Electronics,Smartphone,3.0,1416.9,15.0,Cash On Delivery,30.0,Delivered,3.0
+QC1202,2026-03-04,C149,Customer_164,Missing,Home,Chair,4.0,729.05,5.0,Upi,40.0,Cancelled,4.0
+QC1203,2026-04-02,C114,Customer_127,Bangalore,Electronics,Headphones,2.0,1575.18,0.0,Card,50.0,Pending,5.0
+QC1204,2026-02-11,C106,Customer_139,Mumbai,Fashion,Shoes,4.0,2525.25,0.0,Upi,20.0,Delivered,
+QC1205,2026-02-10,C136,Customer_172,Missing,Grocery,Rice,2.0,493.12,0.0,Unknown,50.0,Cancelled,4.0
+QC1206,2026-04-24,C140,Customer_133,Mumbai,Electronics,Headphones,1.0,808.24,0.0,Card,40.0,Delivered,4.0
+QC1207,2026-01-12,C111,Customer_146,Missing,Fashion,Jacket,4.0,987.08,10.0,Upi,20.0,Returned,5.0
+QC1208,2026-02-28,C127,Customer_169,Kolkata,Unknown,Unknown,2.0,1032.55,10.0,Cash On Delivery,30.0,Cancelled,
+QC1209,2026-01-09,C150,Customer_106,Delhi,Electronics,Keyboard,1.0,861.36,0.0,Upi,50.0,Pending,
+QC1210,2026-01-30,C121,Customer_128,Kolkata,Electronics,Smartphone,2.0,2574.8,0.0,Upi,50.0,Delivered,5.0
+QC1211,2026-06-25,C122,Customer_117,Bangalore,Home,Mixer,2.0,289.91,5.0,Cash On Delivery,,Delivered,4.0
+QC1212,2026-02-16,C139,Customer_170,Kolkata,Home & Kitchen,Mixer,,452.21,10.0,Upi,50.0,Delivered,4.0
+QC1213,2026-05-23,C163,Customer_121,Delhi,Electronics,Headphones,4.0,2287.62,0.0,Card,75.0,Delivered,4.0
+QC1214,2026-04-25,C106,Customer_123,Delhi,Home,Bedsheet,3.0,1620.0,0.0,Card,60.0,Delivered,5.0
+QC1215,2026-03-25,C125,Customer_140,Pune,Home & Kitchen,Lamp,2.0,780.08,0.0,Unknown,75.0,Delivered,
+QC1216,2026-06-22,C171,Customer_178,Missing,Unknown,Unknown,1.0,190.73,20.0,Upi,50.0,Delivered,5.0
+QC1217,2026-03-02,C136,Customer_140,Kolkata,Grocery,Milk,3.0,190.3,20.0,Upi,60.0,Returned,3.0
+QC1218,2026-02-10,C168,Customer_168,Mumbai,Electronics,Keyboard,2.0,211.92,0.0,Card,75.0,Delivered,4.0
+QC1219,2026-01-12,C135,Customer_111,Pune,Electronics,Smartphone,2.0,1616.61,0.0,Card,75.0,Pending,5.0
+QC1220,2026-05-17,C168,Customer_135,Kolkata,Unknown,Unknown,3.0,5330.31,10.0,Card,20.0,Delivered,5.0
+QC1221,2026-04-15,C119,Customer_126,Mumbai,Electronics,Headphones,1.0,2464.23,0.0,Unknown,,Cancelled,4.0
+QC1222,2026-03-17,C145,Customer_167,Pune,Home,Mixer,3.0,845.15,10.0,Card,75.0,Cancelled,2.0
+QC1223,2026-05-25,C161,Customer_112,Pune,Electronics,Smartphone,2.0,199.25,10.0,Cash On Delivery,30.0,Returned,5.0
+QC1224,2026-06-25,C156,Customer_149,Bangalore,Grocery,Rice,2.0,197.03,5.0,Unknown,40.0,Delivered,3.0
+QC1225,2026-06-26,C164,Customer_162,Kolkata,Electronics,Mouse,1.0,1598.93,15.0,Unknown,60.0,Delivered,4.0
+QC1226,2026-02-10,C139,Customer_113,Delhi,Home & Kitchen,Lamp,2.0,4586.18,10.0,Cash On Delivery,,Pending,4.0
+QC1227,2026-04-19,C112,Customer_161,Kolkata,Grocery,Rice,1.0,1398.63,5.0,Card,60.0,Delivered,4.0
+QC1228,2026-06-26,C147,Customer_118,Kolkata,Unknown,Unknown,,899.41,10.0,Upi,,Returned,3.0
+QC1229,2026-03-17,C115,Customer_141,Missing,Home & Kitchen,Lamp,4.0,778.07,0.0,Card,20.0,Cancelled,4.0
+QC1230,2026-05-01,C139,Customer_128,Delhi,Electronics,Keyboard,3.0,508.35,0.0,Unknown,20.0,Delivered,3.0
+QC1231,2026-01-12,C135,Customer_165,Missing,Grocery,Rice,4.0,912.38,5.0,Card,75.0,Delivered,1.0
+QC1232,2026-04-17,C118,Customer_136,Delhi,Home,Chair,1.0,187.7,5.0,Upi,60.0,Delivered,2.0
+QC1233,2026-03-20,C141,Customer_163,Missing,Home,Mixer,5.0,1482.94,15.0,Cash On Delivery,50.0,Delivered,4.0
+QC1234,2026-01-07,C168,Customer_137,Kolkata,Electronics,Headphones,2.0,1560.63,10.0,Upi,60.0,Delivered,3.0
+QC1235,2026-04-23,C138,Customer_164,Bangalore,Grocery,Coffee,1.0,779.65,0.0,Card,20.0,Delivered,4.0
+QC1236,2026-04-30,C159,Customer_167,Delhi,Fashion,T-Shirt,3.0,1485.21,10.0,Upi,75.0,Pending,
+QC1237,2026-05-05,C115,Customer_130,Kolkata,Electronics,Headphones,1.0,1626.61,5.0,Card,40.0,Delivered,1.0
+QC1238,2026-04-23,C129,Customer_177,Delhi,Home,Bedsheet,2.0,769.27,20.0,Unknown,20.0,Cancelled,
+QC1239,2026-06-11,C153,Customer_151,Delhi,Fashion,Jeans,1.0,4839.42,5.0,Card,60.0,Pending,4.0
+QC1240,2026-03-09,C101,Customer_163,Bangalore,Home,Bedsheet,1.0,199.3,10.0,Card,,Pending,
+QC1241,2026-06-01,C119,Customer_137,Missing,Unknown,Unknown,4.0,783.3,,Card,75.0,Cancelled,4.0
+QC1242,2026-02-23,C145,Customer_147,Mumbai,Fashion,Jeans,5.0,1007.6,0.0,Card,40.0,Delivered,
+QC1243,2026-03-11,C117,Customer_119,Kolkata,Home & Kitchen,Mixer,4.0,728.33,10.0,Upi,50.0,Delivered,5.0
+QC1244,2026-05-31,C115,Customer_127,Delhi,Fashion,Jacket,4.0,1525.6,5.0,Upi,75.0,Returned,4.0
+QC1245,2026-01-04,C107,Customer_135,Missing,Grocery,Rice,3.0,538.37,5.0,Upi,,Cancelled,5.0
+QC1246,2026-01-13,C147,Customer_161,Missing,Home,Bedsheet,2.0,190.98,0.0,Card,60.0,Returned,3.0
+QC1247,2026-06-18,C124,Customer_135,Pune,Home & Kitchen,Chair,3.0,536.13,5.0,Unknown,50.0,Returned,5.0
+QC1248,2026-02-05,C125,Customer_137,Kolkata,Unknown,Unknown,,309.57,15.0,Card,20.0,Returned,1.0
+QC1249,2026-04-14,C123,Customer_109,Kolkata,Home,Lamp,4.0,1063.32,15.0,Unknown,30.0,Delivered,5.0
+QC1250,2026-02-03,C145,Customer_161,Delhi,Fashion,Shoes,2.0,1440.88,5.0,Unknown,60.0,Returned,5.0
+QC1251,2026-01-13,C156,Customer_131,Mumbai,Electronics,Smartphone,1.0,2669.97,0.0,Cash On Delivery,30.0,Returned,2.0
+QC1252,2026-06-07,C153,Customer_113,Bangalore,Unknown,Unknown,5.0,1428.9,0.0,Cash On Delivery,20.0,Pending,5.0
+QC1253,2026-02-23,C152,Customer_120,Kolkata,Home,Lamp,2.0,183.99,20.0,Card,50.0,Returned,4.0
+QC1254,2026-01-08,C112,Customer_131,Pune,Fashion,Jeans,1.0,1059.73,10.0,Card,,Cancelled,3.0
+QC1255,2026-01-18,C138,Customer_150,Kolkata,Electronics,Smartphone,4.0,208.9,0.0,Card,30.0,Delivered,4.0
+QC1256,2026-06-11,C144,Customer_168,Mumbai,Fashion,Jeans,4.0,1085.09,15.0,Cash On Delivery,40.0,Delivered,3.0
+QC1257,2026-06-06,C133,Customer_160,Delhi,Home,Chair,2.0,1462.22,,Card,,Pending,2.0
+QC1258,2026-06-24,C125,Customer_173,Bangalore,Unknown,Unknown,1.0,1074.03,0.0,Upi,50.0,Cancelled,2.0
+QC1259,2026-02-16,C118,Customer_178,Delhi,Grocery,Coffee,3.0,908.73,5.0,Upi,40.0,Cancelled,5.0
+QC1260,2026-06-15,C175,Customer_154,Pune,Fashion,T-Shirt,5.0,982.32,15.0,Upi,20.0,Delivered,3.0
+QC1261,2026-03-11,C144,Customer_121,Mumbai,Home,Mixer,4.0,958.1,0.0,Unknown,50.0,Cancelled,5.0
+QC1262,2026-05-18,C153,Customer_144,Missing,Home & Kitchen,Chair,3.0,956.52,5.0,Card,75.0,Delivered,5.0
+QC1263,2026-06-02,C103,Customer_117,Mumbai,Home & Kitchen,Lamp,1.0,1450.24,0.0,Upi,40.0,Cancelled,
+QC1264,2026-01-16,C147,Customer_158,Mumbai,Home,Bedsheet,2.0,725.76,5.0,Unknown,50.0,Delivered,4.0
+QC1265,2026-06-02,C133,Customer_155,Kolkata,Home,Bedsheet,1.0,2652.52,0.0,Upi,60.0,Returned,4.0
+QC1266,2026-02-20,C173,Customer_132,Delhi,Electronics,Keyboard,2.0,5067.08,10.0,Upi,,Pending,
+QC1267,2026-04-08,C128,Customer_177,Missing,Unknown,Unknown,4.0,4706.15,0.0,Upi,60.0,Delivered,5.0
+QC1268,2026-06-27,C175,Customer_115,Mumbai,Unknown,Unknown,3.0,872.15,20.0,Unknown,50.0,Pending,4.0
+QC1269,2026-02-14,C111,Customer_177,Bangalore,Electronics,Keyboard,1.0,280.81,0.0,Upi,40.0,Delivered,5.0
+QC1270,2026-02-26,C147,Customer_131,Kolkata,Unknown,Unknown,1.0,475.04,0.0,Unknown,75.0,Cancelled,4.0
+QC1271,2026-06-27,C138,Customer_127,Kolkata,Electronics,Mouse,3.0,269.57,10.0,Card,20.0,Delivered,1.0
+QC1272,2026-02-15,C113,Customer_103,Pune,Electronics,Smartphone,3.0,1023.16,20.0,Card,30.0,Returned,4.0
+QC1273,2026-06-05,C170,Customer_141,Mumbai,Fashion,Shoes,5.0,853.92,,Upi,,Pending,4.0
+QC1274,2026-04-12,C126,Customer_106,Mumbai,Grocery,Coffee,,187.82,5.0,Cash On Delivery,,Delivered,4.0
+QC1275,2026-04-16,C108,Customer_165,Delhi,Home,Bedsheet,5.0,310.86,5.0,Upi,60.0,Delivered,
+QC1276,2026-04-11,C128,Customer_142,Missing,Grocery,Snacks,,315.24,5.0,Card,50.0,Delivered,5.0
+QC1277,2026-04-03,C167,Customer_113,Bangalore,Electronics,Smartphone,2.0,299.88,15.0,Upi,20.0,Returned,4.0
+QC1278,2026-03-08,C120,Customer_135,Delhi,Electronics,Headphones,1.0,2708.68,,Cash On Delivery,20.0,Delivered,5.0
+QC1279,2026-04-24,C101,Customer_158,Kolkata,Electronics,Headphones,2.0,328.45,5.0,Upi,50.0,Pending,4.0
+QC1280,2026-04-08,C141,Customer_168,Bangalore,Fashion,Jacket,1.0,471.14,0.0,Cash On Delivery,75.0,Delivered,
+QC1281,2026-03-12,C126,Customer_140,Bangalore,Grocery,Rice,2.0,840.35,0.0,Unknown,,Cancelled,4.0
+QC1282,2026-04-22,C146,Customer_128,Pune,Fashion,T-Shirt,4.0,798.61,0.0,Cash On Delivery,40.0,Pending,3.0
+QC1283,2026-06-13,C124,Customer_124,Kolkata,Fashion,Jacket,2.0,499.69,5.0,Cash On Delivery,60.0,Delivered,5.0
+QC1284,2026-06-30,C162,Customer_141,Kolkata,Electronics,Headphones,5.0,2271.79,0.0,Upi,75.0,Pending,1.0
+QC1285,2026-01-03,C151,Customer_147,Mumbai,Fashion,Jacket,3.0,1043.58,0.0,Upi,50.0,Returned,1.0
+QC1286,2026-04-11,C125,Customer_127,Delhi,Home & Kitchen,Lamp,4.0,837.66,15.0,Upi,75.0,Delivered,4.0
+QC1287,2026-01-16,C159,Customer_131,Kolkata,Home & Kitchen,Lamp,2.0,2652.29,,Cash On Delivery,60.0,Returned,4.0
+QC1288,2026-02-17,C152,Customer_125,Delhi,Electronics,Headphones,4.0,189.8,10.0,Card,50.0,Returned,3.0
+QC1289,2026-04-14,C115,Customer_139,Delhi,Home & Kitchen,Lamp,4.0,2503.44,5.0,Upi,30.0,Delivered,4.0
+QC1290,2026-03-14,C113,Customer_170,Pune,Unknown,Unknown,3.0,2674.17,0.0,Upi,60.0,Delivered,5.0
+QC1291,2026-03-22,C167,Customer_115,Mumbai,Fashion,Jacket,1.0,207.01,10.0,Upi,20.0,Pending,
+QC1292,2026-05-12,C159,Customer_129,Delhi,Electronics,Smartphone,1.0,532.83,0.0,Upi,30.0,Delivered,4.0
+QC1293,2026-05-27,C176,Customer_180,Delhi,Electronics,Mouse,,491.97,0.0,Card,75.0,Returned,2.0
+QC1294,2026-03-13,C107,Customer_178,Missing,Electronics,Mouse,1.0,818.98,0.0,Card,60.0,Returned,5.0
+QC1295,2026-02-22,C175,Customer_105,Delhi,Unknown,Unknown,5.0,283.9,0.0,Upi,75.0,Delivered,4.0
+QC1296,2026-03-03,C150,Customer_119,Pune,Electronics,Headphones,5.0,1045.49,5.0,Cash On Delivery,20.0,Returned,3.0
+QC1297,2026-01-14,C119,Customer_154,Bangalore,Electronics,Keyboard,1.0,2721.14,10.0,Upi,,Returned,5.0
+QC1298,2026-01-17,C166,Customer_106,Kolkata,Home,Chair,2.0,2465.02,,Upi,30.0,Delivered,4.0
+QC1299,2026-05-11,C110,Customer_135,Kolkata,Home & Kitchen,Mixer,3.0,311.23,5.0,Card,,Delivered,4.0
+QC1300,2026-05-28,C119,Customer_166,Pune,Home & Kitchen,Chair,,508.52,0.0,Card,20.0,Returned,2.0
+QC1301,2026-02-28,C102,Customer_129,Mumbai,Home & Kitchen,Chair,,2530.82,5.0,Cash On Delivery,50.0,Returned,4.0
+QC1302,2026-04-10,C130,Customer_125,Bangalore,Electronics,Keyboard,2.0,1087.86,10.0,Upi,75.0,Pending,3.0
+QC1303,2026-02-15,C132,Customer_132,Pune,Electronics,Keyboard,2.0,2375.6,5.0,Unknown,20.0,Delivered,3.0
+QC1304,2026-06-05,C115,Customer_104,Bangalore,Electronics,Mouse,2.0,492.37,0.0,Upi,20.0,Delivered,2.0
+QC1305,2026-06-17,C139,Customer_123,Missing,Grocery,Coffee,1.0,4728.23,5.0,Upi,50.0,Delivered,3.0
+QC1306,2026-06-27,C167,Customer_162,Kolkata,Unknown,Unknown,1.0,187.63,0.0,Upi,60.0,Delivered,2.0
+QC1307,2026-03-04,C177,Customer_146,Delhi,Grocery,Milk,3.0,1634.36,15.0,Unknown,50.0,Returned,4.0
+QC1308,2026-05-14,C139,Customer_160,Mumbai,Electronics,Headphones,2.0,501.14,0.0,Unknown,60.0,Delivered,4.0
+QC1309,2026-06-17,C136,Customer_137,Missing,Home,Mixer,3.0,5286.32,5.0,Card,50.0,Delivered,3.0
+QC1310,2026-03-02,C154,Customer_168,Mumbai,Electronics,Mouse,3.0,4942.93,0.0,Upi,,Cancelled,4.0
+QC1311,2026-05-13,C174,Customer_121,Kolkata,Unknown,Unknown,4.0,1545.52,0.0,Cash On Delivery,60.0,Returned,2.0
+QC1312,2026-02-25,C123,Customer_125,Bangalore,Home,Chair,4.0,460.12,0.0,Card,40.0,Cancelled,
+QC1313,2026-06-26,C158,Customer_139,Kolkata,Fashion,T-Shirt,5.0,960.6,20.0,Card,30.0,Pending,4.0
+QC1314,2026-03-28,C176,Customer_180,Delhi,Home,Lamp,2.0,531.82,0.0,Upi,30.0,Delivered,5.0
+QC1315,2026-02-14,C117,Customer_166,Bangalore,Unknown,Unknown,3.0,990.85,5.0,Unknown,,Returned,4.0
+QC1316,2026-05-02,C110,Customer_136,Kolkata,Fashion,T-Shirt,3.0,1511.4,0.0,Card,30.0,Returned,3.0
+QC1317,2026-06-05,C124,Customer_172,Delhi,Fashion,T-Shirt,2.0,2277.95,5.0,Upi,75.0,Delivered,4.0
+QC1318,2026-04-08,C113,Customer_101,Kolkata,Unknown,Unknown,4.0,200.63,10.0,Card,30.0,Delivered,3.0
+QC1319,2026-03-10,C126,Customer_149,Delhi,Unknown,Unknown,1.0,198.83,20.0,Card,60.0,Delivered,4.0
+QC1320,2026-01-29,C132,Customer_126,Mumbai,Electronics,Keyboard,,179.82,15.0,Upi,40.0,Delivered,5.0
+QC1321,2026-04-18,C151,Customer_171,Pune,Home & Kitchen,Chair,4.0,5251.59,5.0,Cash On Delivery,40.0,Returned,5.0
+QC1322,2026-06-28,C148,Customer_166,Pune,Grocery,Milk,5.0,995.87,0.0,Upi,30.0,Returned,4.0
+QC1323,2026-03-18,C145,Customer_179,Mumbai,Unknown,Unknown,3.0,854.6,5.0,Card,30.0,Delivered,2.0
+QC1324,2026-03-01,C175,Customer_130,Delhi,Grocery,Milk,1.0,471.07,5.0,Unknown,50.0,Delivered,5.0
+QC1325,2026-02-27,C145,Customer_162,Missing,Electronics,Keyboard,2.0,2651.19,15.0,Card,20.0,Delivered,4.0
+QC1326,2026-05-07,C106,Customer_129,Kolkata,Fashion,T-Shirt,1.0,940.51,10.0,Cash On Delivery,20.0,Delivered,3.0
+QC1327,2026-01-13,C111,Customer_154,Delhi,Home,Chair,3.0,855.34,5.0,Card,30.0,Returned,3.0
+QC1328,2026-05-20,C123,Customer_118,Pune,Grocery,Coffee,5.0,1621.27,5.0,Upi,30.0,Delivered,4.0
+QC1329,2026-06-05,C121,Customer_113,Delhi,Home & Kitchen,Mixer,3.0,2567.35,10.0,Unknown,60.0,Pending,4.0
+QC1330,2026-04-11,C176,Customer_133,Mumbai,Electronics,Keyboard,3.0,2659.76,5.0,Upi,30.0,Returned,5.0
+QC1331,2026-06-27,C148,Customer_106,Kolkata,Home,Mixer,2.0,1473.59,20.0,Unknown,75.0,Pending,5.0
+QC1332,2026-05-05,C138,Customer_148,Delhi,Grocery,Coffee,3.0,2699.4,,Upi,40.0,Returned,2.0
+QC1333,2026-05-23,C116,Customer_113,Kolkata,Grocery,Snacks,5.0,529.61,15.0,Upi,,Pending,4.0
+QC1334,2026-03-27,C138,Customer_131,Pune,Grocery,Coffee,2.0,489.62,0.0,Card,40.0,Cancelled,5.0
+QC1335,2026-03-26,C110,Customer_125,Mumbai,Electronics,Headphones,4.0,4631.72,5.0,Card,60.0,Delivered,4.0
+QC1336,2026-06-01,C111,Customer_155,Mumbai,Unknown,Unknown,4.0,311.4,5.0,Card,,Cancelled,4.0
+QC1337,2026-06-15,C125,Customer_114,Delhi,Unknown,Unknown,1.0,493.32,5.0,Cash On Delivery,50.0,Returned,5.0
+QC1338,2026-03-28,C141,Customer_159,Missing,Home,Chair,3.0,2680.75,0.0,Upi,60.0,Delivered,3.0
+QC1339,2026-05-30,C147,Customer_146,Pune,Home & Kitchen,Lamp,2.0,523.73,15.0,Upi,50.0,Delivered,3.0
+QC1340,2026-05-11,C128,Customer_156,Kolkata,Electronics,Smartphone,4.0,2334.78,5.0,Card,75.0,Returned,5.0
+QC1341,2026-06-17,C143,Customer_122,Mumbai,Home,Mixer,3.0,190.13,20.0,Card,50.0,Delivered,5.0
+QC1342,2026-02-14,C159,Customer_156,Delhi,Electronics,Headphones,1.0,5115.29,0.0,Upi,,Returned,5.0
+QC1343,2026-04-27,C120,Customer_153,Missing,Grocery,Coffee,1.0,1078.39,10.0,Upi,,Delivered,4.0
+QC1344,2026-02-27,C134,Customer_120,Kolkata,Electronics,Smartphone,5.0,1440.85,10.0,Card,50.0,Delivered,2.0
+QC1345,2026-04-20,C164,Customer_108,Bangalore,Fashion,Jeans,2.0,874.6,15.0,Upi,40.0,Cancelled,3.0
+QC1346,2026-01-04,C164,Customer_138,Missing,Electronics,Keyboard,2.0,193.18,0.0,Unknown,75.0,Cancelled,3.0
+QC1347,2026-06-17,C124,Customer_144,Mumbai,Electronics,Smartphone,4.0,505.33,15.0,Upi,30.0,Pending,4.0
+QC1348,2026-01-22,C113,Customer_148,Kolkata,Electronics,Mouse,2.0,2446.87,10.0,Upi,20.0,Pending,4.0
+QC1349,2026-02-09,C120,Customer_177,Kolkata,Electronics,Mouse,5.0,2271.57,0.0,Upi,20.0,Pending,
+QC1350,2026-03-30,C162,Customer_113,Bangalore,Fashion,T-Shirt,3.0,776.85,15.0,Upi,,Delivered,2.0
+QC1351,2026-03-13,C125,Customer_177,Delhi,Home,Lamp,3.0,1014.85,5.0,Unknown,,Returned,3.0
+QC1352,2026-06-15,C172,Customer_172,Pune,Fashion,T-Shirt,1.0,470.93,0.0,Unknown,60.0,Delivered,
+QC1353,2026-03-10,C162,Customer_152,Kolkata,Home & Kitchen,Bedsheet,2.0,291.07,0.0,Upi,60.0,Delivered,5.0
+QC1354,2026-06-19,C149,Customer_120,Mumbai,Unknown,Unknown,1.0,300.31,10.0,Card,,Cancelled,1.0
+QC1355,2026-04-19,C123,Customer_146,Delhi,Electronics,Smartphone,1.0,201.16,0.0,Cash On Delivery,40.0,Delivered,3.0
+QC1356,2026-05-25,C130,Customer_113,Kolkata,Home,Chair,2.0,209.85,10.0,Unknown,,Delivered,5.0
+QC1357,2026-05-23,C173,Customer_152,Kolkata,Home & Kitchen,Mixer,2.0,452.14,0.0,Card,50.0,Delivered,4.0
+QC1358,2026-03-16,C180,Customer_109,Missing,Unknown,Unknown,3.0,1514.34,5.0,Upi,50.0,Returned,
+QC1359,2026-02-11,C162,Customer_111,Missing,Electronics,Mouse,4.0,203.31,0.0,Upi,40.0,Returned,5.0
+QC1360,2026-06-14,C164,Customer_154,Kolkata,Electronics,Headphones,1.0,1070.23,15.0,Cash On Delivery,75.0,Returned,4.0
+QC1361,2026-01-17,C106,Customer_119,Pune,Grocery,Coffee,2.0,192.32,0.0,Card,40.0,Delivered,5.0
+QC1362,2026-01-13,C152,Customer_158,Kolkata,Home & Kitchen,Chair,5.0,499.63,5.0,Upi,30.0,Delivered,4.0
+QC1363,2026-02-17,C140,Customer_163,Mumbai,Unknown,Unknown,2.0,480.23,0.0,Card,30.0,Delivered,5.0
+QC1364,2026-05-22,C125,Customer_134,Delhi,Fashion,Jeans,1.0,458.32,0.0,Unknown,,Cancelled,3.0
+QC1365,2026-01-27,C180,Customer_115,Delhi,Home & Kitchen,Mixer,3.0,307.82,0.0,Upi,60.0,Delivered,
+QC1366,2026-03-28,C148,Customer_155,Kolkata,Home,Lamp,1.0,2450.22,20.0,Upi,50.0,Cancelled,5.0
+QC1367,2026-04-26,C138,Customer_115,Kolkata,Electronics,Smartphone,1.0,305.21,15.0,Unknown,75.0,Cancelled,2.0
+QC1368,2026-04-22,C147,Customer_168,Delhi,Fashion,Jeans,4.0,185.64,0.0,Card,40.0,Pending,4.0
+QC1369,2026-03-02,C164,Customer_105,Kolkata,Fashion,T-Shirt,5.0,5156.0,20.0,Card,50.0,Delivered,4.0
+QC1370,2026-04-14,C160,Customer_151,Pune,Unknown,Unknown,2.0,546.96,0.0,Cash On Delivery,30.0,Delivered,5.0
+QC1371,2026-05-02,C173,Customer_158,Bangalore,Fashion,Jacket,1.0,2335.33,10.0,Card,50.0,Pending,3.0
+QC1372,2026-06-19,C121,Customer_179,Kolkata,Unknown,Unknown,1.0,206.64,5.0,Unknown,20.0,Pending,4.0
+QC1373,2026-05-25,C138,Customer_178,Bangalore,Home & Kitchen,Lamp,5.0,4861.59,15.0,Cash On Delivery,60.0,Delivered,4.0
+QC1374,2026-06-12,C160,Customer_106,Bangalore,Home & Kitchen,Lamp,1.0,5307.34,15.0,Card,,Delivered,5.0
+QC1375,2026-05-26,C104,Customer_117,Kolkata,Electronics,Smartphone,2.0,271.05,5.0,Unknown,40.0,Cancelled,3.0
+QC1376,2026-03-22,C135,Customer_119,Mumbai,Home,Mixer,1.0,737.69,10.0,Cash On Delivery,40.0,Delivered,1.0
+QC1377,2026-02-01,C136,Customer_113,Pune,Electronics,Smartphone,4.0,4818.69,5.0,Unknown,40.0,Delivered,
+QC1378,2026-06-22,C128,Customer_166,Missing,Home,Bedsheet,1.0,2393.05,10.0,Unknown,50.0,Cancelled,
+QC1379,2026-05-05,C157,Customer_180,Delhi,Unknown,Unknown,4.0,191.56,15.0,Unknown,30.0,Cancelled,
+QC1380,2026-06-22,C123,Customer_169,Pune,Electronics,Smartphone,2.0,309.61,5.0,Card,75.0,Cancelled,4.0
+QC1381,2026-04-06,C173,Customer_174,Mumbai,Home,Lamp,2.0,841.85,5.0,Cash On Delivery,30.0,Delivered,5.0
+QC1382,2026-05-13,C132,Customer_170,Delhi,Unknown,Unknown,2.0,520.24,10.0,Unknown,40.0,Cancelled,3.0
+QC1383,2026-03-17,C114,Customer_118,Kolkata,Electronics,Mouse,2.0,5118.32,5.0,Upi,50.0,Delivered,1.0
+QC1384,2026-01-25,C128,Customer_125,Kolkata,Electronics,Smartphone,1.0,537.63,5.0,Card,75.0,Cancelled,4.0
+QC1385,2026-01-10,C175,Customer_111,Bangalore,Electronics,Headphones,3.0,1379.15,0.0,Unknown,30.0,Returned,3.0
+QC1386,2026-02-23,C175,Customer_116,Kolkata,Home,Bedsheet,2.0,188.31,15.0,Card,30.0,Cancelled,1.0
+QC1387,2026-03-17,C160,Customer_177,Mumbai,Grocery,Snacks,1.0,325.72,15.0,Unknown,30.0,Delivered,4.0
+QC1388,2026-01-12,C113,Customer_143,Kolkata,Electronics,Mouse,1.0,519.9,0.0,Card,50.0,Returned,3.0
+QC1389,2026-06-24,C176,Customer_130,Missing,Electronics,Keyboard,1.0,916.6,0.0,Unknown,60.0,Cancelled,4.0
+QC1390,2026-06-23,C152,Customer_119,Bangalore,Electronics,Smartphone,3.0,797.81,5.0,Card,,Delivered,4.0
+QC1391,2026-04-10,C130,Customer_145,Delhi,Home,Bedsheet,4.0,806.58,10.0,Card,30.0,Cancelled,4.0
+QC1392,2026-05-27,C138,Customer_170,Mumbai,Home,Bedsheet,1.0,1427.0,20.0,Upi,20.0,Cancelled,4.0
+QC1393,2026-03-09,C144,Customer_134,Bangalore,Fashion,Jeans,3.0,735.97,0.0,Upi,75.0,Returned,4.0
+QC1394,2026-06-08,C153,Customer_132,Kolkata,Electronics,Mouse,3.0,875.27,15.0,Upi,60.0,Delivered,4.0
+QC1395,2026-04-17,C101,Customer_111,Missing,Electronics,Headphones,2.0,825.43,5.0,Upi,,Returned,1.0
+QC1396,2026-02-16,C153,Customer_171,Kolkata,Unknown,Unknown,1.0,284.26,5.0,Card,20.0,Delivered,
+QC1397,2026-01-27,C154,Customer_166,Kolkata,Fashion,Jacket,1.0,286.31,0.0,Card,50.0,Delivered,5.0
+QC1398,2026-02-09,C177,Customer_142,Missing,Fashion,T-Shirt,1.0,763.19,15.0,Unknown,30.0,Pending,4.0
+QC1399,2026-03-07,C112,Customer_140,Kolkata,Home,Mixer,3.0,831.18,0.0,Card,20.0,Delivered,3.0
+QC1400,2026-05-04,C136,Customer_124,Pune,Electronics,Mouse,3.0,189.39,0.0,Card,40.0,Cancelled,5.0
+QC1401,2026-01-24,C121,Customer_110,Pune,Unknown,Unknown,4.0,272.11,20.0,Unknown,,Cancelled,3.0
+QC1402,2026-06-22,C136,Customer_122,Pune,Home,Bedsheet,3.0,1589.0,15.0,Card,50.0,Returned,3.0
+QC1403,2026-04-19,C116,Customer_159,Bangalore,Fashion,Jacket,3.0,5175.33,10.0,Card,,Delivered,4.0
+QC1404,2026-03-02,C171,Customer_146,Missing,Grocery,Coffee,3.0,2270.33,10.0,Upi,75.0,Delivered,5.0
+QC1405,2026-03-20,C143,Customer_131,Delhi,Electronics,Headphones,2.0,822.94,0.0,Upi,40.0,Cancelled,5.0
+QC1406,2026-01-29,C170,Customer_125,Missing,Grocery,Milk,1.0,1511.08,15.0,Card,60.0,Delivered,5.0
+QC1407,2026-06-16,C154,Customer_175,Bangalore,Home,Lamp,,473.08,0.0,Card,40.0,Cancelled,3.0
+QC1408,2026-03-25,C170,Customer_108,Bangalore,Grocery,Coffee,5.0,530.18,0.0,Cash On Delivery,60.0,Delivered,4.0
+QC1409,2026-06-16,C104,Customer_119,Pune,Electronics,Mouse,3.0,515.63,0.0,Card,20.0,Cancelled,5.0
+QC1410,2026-02-11,C126,Customer_123,Delhi,Grocery,Rice,1.0,841.75,0.0,Upi,40.0,Pending,5.0
+QC1411,2026-06-04,C111,Customer_138,Kolkata,Electronics,Mouse,1.0,532.18,,Cash On Delivery,30.0,Returned,1.0
+QC1412,2026-02-21,C147,Customer_107,Delhi,Home & Kitchen,Bedsheet,2.0,1544.85,0.0,Card,40.0,Delivered,5.0
+QC1413,2026-02-22,C180,Customer_113,Kolkata,Fashion,T-Shirt,1.0,315.17,0.0,Unknown,75.0,Delivered,
+QC1414,2026-06-22,C123,Customer_128,Delhi,Home & Kitchen,Bedsheet,2.0,1537.41,20.0,Upi,50.0,Returned,4.0
+QC1415,2026-01-17,C167,Customer_180,Pune,Electronics,Smartphone,4.0,966.89,5.0,Upi,50.0,Returned,2.0
+QC1416,2026-03-05,C138,Customer_164,Missing,Home,Chair,5.0,1613.91,5.0,Card,60.0,Delivered,4.0
+QC1417,2026-02-19,C152,Customer_133,Kolkata,Unknown,Unknown,3.0,280.92,0.0,Upi,60.0,Delivered,4.0
+QC1418,2026-06-27,C173,Customer_161,Delhi,Home,Mixer,3.0,836.45,0.0,Card,,Delivered,3.0
+QC1419,2026-06-06,C116,Customer_147,Delhi,Grocery,Snacks,2.0,731.77,10.0,Upi,50.0,Returned,3.0
+QC1420,2026-01-22,C175,Customer_166,Mumbai,Home,Mixer,1.0,4818.16,5.0,Unknown,75.0,Delivered,5.0
+QC1421,2026-05-14,C170,Customer_144,Pune,Fashion,Shoes,4.0,938.1,10.0,Card,30.0,Delivered,
+QC1422,2026-04-04,C127,Customer_139,Kolkata,Electronics,Smartphone,3.0,901.2,20.0,Card,75.0,Delivered,5.0
+QC1423,2026-06-21,C154,Customer_118,Delhi,Fashion,Shoes,4.0,201.66,5.0,Cash On Delivery,60.0,Delivered,5.0
+QC1424,2026-04-23,C122,Customer_166,Mumbai,Electronics,Mouse,2.0,1080.03,15.0,Unknown,40.0,Delivered,4.0
+QC1425,2026-06-28,C149,Customer_109,Kolkata,Electronics,Headphones,4.0,179.68,0.0,Unknown,50.0,Returned,3.0
+QC1426,2026-06-06,C103,Customer_110,Mumbai,Home,Chair,3.0,286.05,15.0,Cash On Delivery,,Delivered,5.0
+QC1427,2026-06-28,C167,Customer_145,Missing,Home & Kitchen,Mixer,2.0,1502.51,5.0,Card,50.0,Delivered,3.0
+QC1428,2026-06-01,C144,Customer_101,Kolkata,Grocery,Snacks,5.0,760.35,0.0,Unknown,75.0,Returned,5.0
+QC1429,2026-06-13,C123,Customer_143,Pune,Electronics,Mouse,1.0,876.35,15.0,Card,20.0,Returned,4.0
+QC1430,2026-04-02,C151,Customer_156,Delhi,Grocery,Coffee,1.0,1463.67,10.0,Upi,,Delivered,5.0
+QC1431,2026-01-24,C148,Customer_145,Bangalore,Fashion,T-Shirt,3.0,747.4,0.0,Upi,75.0,Delivered,
+QC1432,2026-03-17,C177,Customer_155,Delhi,Fashion,Shoes,1.0,2352.95,10.0,Cash On Delivery,,Pending,4.0
+QC1433,2026-04-29,C123,Customer_156,Pune,Unknown,Unknown,1.0,1637.39,10.0,Cash On Delivery,40.0,Delivered,5.0
+QC1434,2026-05-06,C149,Customer_137,Kolkata,Electronics,Mouse,4.0,786.22,10.0,Card,50.0,Delivered,4.0
+QC1435,2026-06-12,C160,Customer_145,Pune,Unknown,Unknown,2.0,5174.73,10.0,Upi,50.0,Cancelled,
+QC1436,2026-04-25,C164,Customer_143,Delhi,Unknown,Unknown,5.0,985.82,0.0,Unknown,,Delivered,3.0
+QC1437,2026-03-29,C147,Customer_140,Delhi,Home,Lamp,3.0,2370.95,10.0,Card,30.0,Delivered,4.0
+QC1438,2026-03-18,C149,Customer_120,Bangalore,Fashion,Jeans,3.0,518.46,10.0,Card,60.0,Pending,5.0
+QC1439,2026-02-07,C106,Customer_145,Delhi,Fashion,Jeans,3.0,186.37,0.0,Card,20.0,Delivered,4.0
+QC1440,2026-02-04,C162,Customer_101,Mumbai,Grocery,Rice,1.0,455.18,0.0,Card,60.0,Delivered,4.0
+QC1441,2026-01-25,C116,Customer_154,Delhi,Electronics,Headphones,5.0,507.79,0.0,Upi,40.0,Pending,5.0
+QC1442,2026-02-14,C106,Customer_121,Kolkata,Electronics,Smartphone,1.0,279.93,15.0,Upi,60.0,Delivered,4.0
+QC1443,2026-05-05,C173,Customer_115,Mumbai,Grocery,Snacks,1.0,315.31,10.0,Upi,50.0,Delivered,4.0
+QC1444,2026-01-05,C120,Customer_179,Kolkata,Home,Bedsheet,4.0,761.61,0.0,Card,,Delivered,5.0
+QC1445,2026-04-20,C109,Customer_111,Delhi,Home,Chair,5.0,313.11,0.0,Card,,Delivered,5.0
+QC1446,2026-05-10,C156,Customer_160,Missing,Electronics,Mouse,5.0,4915.28,5.0,Card,50.0,Cancelled,5.0
+QC1447,2026-05-10,C125,Customer_113,Kolkata,Unknown,Unknown,2.0,315.86,15.0,Upi,50.0,Delivered,3.0
+QC1448,2026-02-28,C160,Customer_162,Kolkata,Electronics,Keyboard,4.0,480.26,5.0,Upi,60.0,Returned,4.0
+QC1449,2026-02-18,C116,Customer_151,Kolkata,Fashion,Jacket,5.0,2320.65,10.0,Upi,40.0,Cancelled,4.0
+QC1450,2026-01-06,C124,Customer_118,Missing,Grocery,Milk,5.0,2712.02,20.0,Card,20.0,Delivered,5.0
+QC1451,2026-05-11,C175,Customer_138,Bangalore,Home & Kitchen,Lamp,2.0,205.74,0.0,Cash On Delivery,50.0,Delivered,4.0
+QC1452,2026-02-28,C171,Customer_109,Bangalore,Electronics,Headphones,1.0,1547.66,15.0,Card,75.0,Delivered,
+QC1453,2026-01-27,C101,Customer_180,Pune,Unknown,Unknown,1.0,1424.74,20.0,Upi,,Returned,4.0
+QC1454,2026-05-07,C148,Customer_105,Delhi,Unknown,Unknown,1.0,516.63,10.0,Upi,40.0,Cancelled,4.0
+QC1455,2026-05-04,C124,Customer_123,Kolkata,Unknown,Unknown,1.0,794.01,10.0,Card,20.0,Pending,4.0
+QC1456,2026-05-11,C162,Customer_147,Bangalore,Home & Kitchen,Chair,5.0,2284.54,0.0,Card,,Delivered,5.0
+QC1457,2026-03-19,C171,Customer_131,Bangalore,Home,Chair,1.0,1622.37,0.0,Unknown,50.0,Delivered,4.0
+QC1458,2026-03-25,C161,Customer_122,Delhi,Home & Kitchen,Chair,,1491.21,5.0,Card,60.0,Delivered,4.0
+QC1459,2026-04-04,C106,Customer_169,Bangalore,Electronics,Keyboard,3.0,494.81,0.0,Cash On Delivery,,Delivered,
+QC1460,2026-03-05,C122,Customer_134,Missing,Electronics,Headphones,3.0,195.76,0.0,Unknown,75.0,Delivered,4.0
+QC1461,2026-05-05,C127,Customer_143,Delhi,Grocery,Coffee,1.0,312.32,0.0,Upi,50.0,Delivered,2.0
+QC1462,2026-02-25,C113,Customer_156,Kolkata,Fashion,Jeans,1.0,2266.89,,Card,30.0,Delivered,2.0
+QC1463,2026-01-30,C158,Customer_168,Delhi,Electronics,Mouse,2.0,2656.47,20.0,Card,40.0,Delivered,5.0
+QC1464,2026-04-17,C129,Customer_121,Kolkata,Electronics,Smartphone,3.0,1423.63,5.0,Upi,30.0,Returned,4.0
+QC1465,2026-03-13,C165,Customer_154,Kolkata,Grocery,Rice,2.0,283.14,15.0,Cash On Delivery,75.0,Cancelled,5.0
+QC1466,2026-05-06,C129,Customer_141,Kolkata,Home & Kitchen,Lamp,3.0,2361.02,5.0,Upi,50.0,Pending,5.0
+QC1467,2026-04-20,C156,Customer_122,Delhi,Unknown,Unknown,2.0,286.9,0.0,Cash On Delivery,,Returned,5.0
+QC1468,2026-03-06,C151,Customer_101,Delhi,Electronics,Headphones,1.0,525.04,0.0,Card,60.0,Pending,4.0
+QC1469,2026-01-17,C159,Customer_123,Missing,Fashion,Jacket,2.0,1353.07,5.0,Card,40.0,Delivered,5.0
+QC1470,2026-01-02,C110,Customer_150,Bangalore,Unknown,Unknown,3.0,291.65,5.0,Upi,40.0,Returned,4.0
+QC1471,2026-05-26,C106,Customer_145,Kolkata,Home,Bedsheet,4.0,1570.79,10.0,Card,30.0,Returned,2.0
+QC1472,2026-03-10,C161,Customer_102,Missing,Home,Lamp,,874.04,10.0,Upi,40.0,Cancelled,3.0
+QC1473,2026-04-07,C141,Customer_141,Missing,Unknown,Unknown,3.0,5274.18,0.0,Cash On Delivery,30.0,Delivered,3.0
+QC1474,2026-04-13,C110,Customer_171,Kolkata,Electronics,Smartphone,3.0,324.36,15.0,Unknown,75.0,Pending,4.0
+QC1475,2026-02-25,C180,Customer_141,Missing,Fashion,Jeans,3.0,740.24,0.0,Cash On Delivery,50.0,Delivered,4.0
+QC1476,2026-01-15,C160,Customer_122,Missing,Fashion,Jeans,1.0,1490.4,5.0,Upi,60.0,Cancelled,4.0
+QC1477,2026-04-30,C117,Customer_157,Kolkata,Grocery,Coffee,1.0,971.11,0.0,Upi,75.0,Delivered,2.0
+QC1478,2026-03-26,C121,Customer_118,Missing,Fashion,T-Shirt,1.0,192.74,0.0,Card,30.0,Delivered,
+QC1479,2026-06-26,C129,Customer_104,Kolkata,Home,Bedsheet,5.0,279.04,20.0,Upi,75.0,Delivered,3.0
+QC1480,2026-03-31,C152,Customer_126,Kolkata,Unknown,Unknown,5.0,191.6,5.0,Card,40.0,Cancelled,3.0
+QC1481,2026-01-17,C133,Customer_176,Kolkata,Electronics,Keyboard,2.0,196.81,5.0,Cash On Delivery,40.0,Delivered,
+QC1482,2026-02-15,C116,Customer_124,Bangalore,Grocery,Milk,4.0,290.82,15.0,Unknown,75.0,Pending,4.0
+QC1483,2026-05-24,C120,Customer_180,Missing,Electronics,Headphones,1.0,272.84,5.0,Unknown,75.0,Pending,4.0
+QC1484,2026-06-29,C168,Customer_126,Delhi,Grocery,Milk,1.0,1436.61,10.0,Unknown,40.0,Pending,4.0
+QC1485,2026-01-26,C121,Customer_128,Mumbai,Fashion,Jacket,2.0,872.84,5.0,Card,30.0,Returned,3.0
+QC1486,2026-02-15,C103,Customer_155,Mumbai,Electronics,Keyboard,,2415.86,5.0,Card,50.0,Cancelled,5.0
+QC1487,2026-01-22,C118,Customer_112,Mumbai,Fashion,Shoes,2.0,483.2,10.0,Unknown,50.0,Returned,4.0
+QC1488,2026-04-17,C148,Customer_107,Delhi,Home & Kitchen,Chair,2.0,4972.44,15.0,Cash On Delivery,60.0,Returned,3.0
+QC1489,2026-01-17,C126,Customer_121,Bangalore,Unknown,Unknown,2.0,313.34,15.0,Upi,60.0,Delivered,5.0
+QC1490,2026-05-20,C138,Customer_134,Kolkata,Grocery,Milk,4.0,308.98,5.0,Card,30.0,Returned,3.0
+QC1491,2026-04-16,C104,Customer_169,Delhi,Electronics,Smartphone,1.0,1592.41,5.0,Upi,30.0,Cancelled,3.0
+QC1492,2026-01-02,C108,Customer_111,Mumbai,Electronics,Headphones,4.0,1406.67,10.0,Upi,20.0,Delivered,4.0
+QC1493,2026-03-27,C121,Customer_150,Pune,Electronics,Mouse,4.0,4684.84,0.0,Upi,75.0,Cancelled,4.0
+QC1494,2026-03-15,C162,Customer_106,Kolkata,Unknown,Unknown,3.0,207.94,15.0,Cash On Delivery,50.0,Pending,4.0
+QC1495,2026-02-08,C133,Customer_159,Kolkata,Electronics,Keyboard,1.0,457.62,,Upi,75.0,Returned,4.0
+QC1496,2026-02-01,C126,Customer_125,Delhi,Electronics,Mouse,2.0,757.42,0.0,Card,30.0,Returned,5.0
+QC1497,2026-06-24,C133,Customer_135,Delhi,Electronics,Smartphone,1.0,1463.89,10.0,Card,30.0,Delivered,5.0
+QC1498,2026-06-29,C149,Customer_111,Kolkata,Home & Kitchen,Lamp,3.0,1443.7,0.0,Card,,Cancelled,3.0
+QC1499,2026-01-19,C158,Customer_123,Delhi,Fashion,Jeans,3.0,1039.13,0.0,Upi,75.0,Delivered,5.0
+QC1500,2026-01-13,C129,Customer_103,Kolkata,Fashion,Jacket,5.0,921.74,0.0,Cash On Delivery,75.0,Pending,3.0
