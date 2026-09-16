@@ -1,49 +1,48 @@
 # QuickCart — E-commerce Business Analytics
 
-An end-to-end e-commerce analytics project focused on data cleaning, SQL analysis, business insights, and interactive dashboard development.
+An end-to-end e-commerce analytics project using Python, Pandas, PostgreSQL, SQL, Power BI, and DAX.
 
-## Project Overview
+## 📌 Project Overview
 
-QuickCart is an online grocery/e-commerce dataset containing 500 orders across different cities, categories, products, payment methods, and order statuses.
+Analyzed 500 e-commerce orders to understand sales performance, customer activity, revenue trends, order status, and operational performance.
 
-The project simulates a real-world analytics workflow where raw and inconsistent sales data is cleaned, analyzed using SQL, and transformed into a management-focused Power BI dashboard.
+## 🛠️ Tools
 
-## Business Objective
+- Python & Pandas
+- PostgreSQL & SQL
+- Power BI
+- DAX
+- Excel
 
-The objective of this project was to:
+## 🔄 Workflow
 
-- Clean and prepare messy sales data for analysis
-- Understand overall business and sales performance
-- Identify important trends and patterns
-- Analyze customer and operational metrics
-- Identify data-quality issues
-- Generate actionable business insights and recommendations
+Raw Data → Data Cleaning → PostgreSQL → SQL Analysis → Power BI Dashboard → Business Insights
 
-## Tools & Technologies
+## 📊 Dashboard
 
-- **Python**
-- **Pandas**
-- **PostgreSQL**
-- **SQL**
-- **Power BI**
-- **DAX**
-- **Excel**
+### Business Overview
+![Business Overview](Screenshots/business_overview.png)
 
-## Project Workflow
+### Sales & Revenue Analysis
+![Sales & Revenue](Screenshots/sales_revenue.png)
 
-```text
-Raw Sales Data
-      ↓
-Data Cleaning with Python/Pandas
-      ↓
-Cleaned Dataset
-      ↓
-PostgreSQL
-      ↓
-SQL Business Analysis
-      ↓
-Power BI + DAX
-      ↓
-Interactive Dashboard
-      ↓
-Business Insights & Recommendations
+### Customer & Operations Analysis
+![Customer Operations](Screenshots/customer_operations.png)
+
+## 🔍 Key Insights
+
+- June recorded the highest order volume.
+- Returned orders had the lowest average rating (3.58).
+- Kolkata had a 25% return rate.
+- Electronics in Kolkata had a 30% return rate.
+- Significant `Unknown` product/category records were identified as a data-quality issue.
+
+## 💡 Recommendations
+
+- Improve product and category data quality.
+- Investigate reasons behind returned orders.
+- Monitor customer ordering patterns and monthly sales trends.
+
+## 👩‍💻 Author
+
+**Soupatri Maitra**
