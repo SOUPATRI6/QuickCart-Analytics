@@ -18,17 +18,6 @@ Analyzed 500 e-commerce orders to understand sales performance, customer activit
 
 Raw Data → Data Cleaning → PostgreSQL → SQL Analysis → Power BI Dashboard → Business Insights
 
-## 📊 Dashboard
-
-### Business Overview
-![Business Overview](Screenshots/business_overview.png)
-
-### Sales & Revenue Analysis
-![Sales & Revenue](Screenshots/sales_revenue.png)
-
-### Customer & Operations Analysis
-![Customer Operations](Screenshots/customer_operations.png)
-
 ## 🔍 Key Insights
 
 - June recorded the highest order volume.
